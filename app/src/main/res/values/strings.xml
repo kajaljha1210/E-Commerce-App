@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ECommerceApp</string>
+    <string name="order_success_message">Order Placed Successfully!</string>
+    <string name="price_format">Price: $%.2f</string>
+    <string name="quantity_format">Quantity: %d</string>
+    <string name="subtotal_format">Subtotal: $%.2f</string>
+    <string name="tax_format">Tax (10%%): $%.2f</string>
+    <string name="grand_total_format">Grand Total: $%.2f</string>
+
+</resources>
